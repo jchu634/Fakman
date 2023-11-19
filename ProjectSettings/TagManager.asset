@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickups
+  - TeleportBlockRight
+  - TeleportBlockLeft
+  - Intersection
+  - Colliders
+  - Ghosts
+  - Respawn Location
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collision
+  - Ghost Collision
+  - 
+  - Player
+  - Maze
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 1751010089
+    locked: 0
+  - name: Pickups
+    uniqueID: 3339699661
+    locked: 0
+  - name: Maze
+    uniqueID: 1626368799
+    locked: 0
+  - name: Ghost Collision
+    uniqueID: 2062200917
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
