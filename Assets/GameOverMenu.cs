@@ -5,11 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class GameOverMenu : MonoBehaviour
 {
-    public void MainMenu()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
-        resetGlobals();
-    }
     public void ReloadGame()
     {
         resetGlobals();
